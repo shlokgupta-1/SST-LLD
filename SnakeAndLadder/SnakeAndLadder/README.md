@@ -78,3 +78,11 @@ game.start();
 See `SnakeAndLadderDemo.java` for a sample usage and simulation of the snake and ladder game.
 
 ---
+
+## Extending the Framework
+
+- **Add multiple dice:** Allow rolling more than one dice per turn.
+- **Add power-ups:** Introduce special cells with unique effects.
+- **Add custom board sizes:** Support boards larger or smaller than 100 cells.
+
+---
